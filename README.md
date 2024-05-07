@@ -12,7 +12,7 @@
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Estudante de Engenharia de Software na Fiap, dedicado à programação diariamente para aprimorar habilidades. Com foco em desenvolvimento backend com JavaScript e Nodejs, mantenho-me atualizado e busco novos conhecimentos. 
+Estudante de Engenharia de Software na Fiap, dedicado à programação diariariamente para aprimorar habilidades. Com foco em desenvolvimento backend com JavaScript e NodeJs e front end utilizando VueJS, HTML, Bootstrap e Css. Mantenho-me atualizado e busco novos conhecimentos. 
 
 Com habilidades de comunicação sólidas, destaco-me por trabalhar bem em equipe, sendo disciplinado, consistente e proativo. Possuo nível avançado em inglês, estou pronto para enfrentar desafios e adaptar-me a diferentes situações.
 
